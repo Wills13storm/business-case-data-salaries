@@ -23,6 +23,20 @@ This project provides an analysis of salaries in data-related careers across var
 - **SQL** – for data processing and aggregation.
 - **Python** – for additional data analysis (if applicable).
 
+## Dashboard
+
+![image](https://github.com/user-attachments/assets/d49a45d2-bd33-4c4d-9214-d955c1f45e5b)
+
+
+![image](https://github.com/user-attachments/assets/e54060eb-f1c3-4009-be8e-b5b60adc08c7)
+
+
+![image](https://github.com/user-attachments/assets/9577dac9-658d-4cf0-a97a-86ae1a167ccb)
+
+
+![image](https://github.com/user-attachments/assets/b64af1e6-9209-430d-b705-150903c15123)
+
+
 ## Installation & Usage
 1. Clone the repository:
    ```bash
